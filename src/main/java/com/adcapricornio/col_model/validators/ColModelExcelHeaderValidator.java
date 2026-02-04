@@ -1,6 +1,8 @@
 package com.adcapricornio.col_model.validators;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
@@ -13,6 +15,8 @@ public class ColModelExcelHeaderValidator {
 
     @Getter
     @Setter
+    @AllArgsConstructor
+    @NoArgsConstructor
     public static class Header {
 
         private String key;

@@ -31,6 +31,12 @@ public class BodyItemField {
     private String actionKey;
 
     @JsonInclude(JsonInclude.Include.NON_NULL)
+    private String actionData;
+
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    private String actionType;
+
+    @JsonInclude(JsonInclude.Include.NON_NULL)
     private Integer isHtml;
 
     @JsonInclude(JsonInclude.Include.NON_NULL)

@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PE"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire/surefirebooter-20260425041552753_3.jar /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire 2026-04-25T04-15-52_725-jvmRun1 surefire-20260425041552753_1tmp surefire_0-20260425041552753_2tmp"/>
+    <property name="sun.java.command" value="/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire/surefirebooter-20260818162259710_3.jar /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire 2026-08-18T16-22-59_682-jvmRun1 surefire-20260818162259710_1tmp surefire_0-20260818162259710_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/test-classes:/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/classes:/Users/oscar/.m2/repository/org/projectlombok/lombok/1.18.32/lombok-1.18.32.jar:/Users/oscar/.m2/repository/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar:/Users/oscar/.m2/repository/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar:/Users/oscar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.17.1/jackson-databind-2.17.1.jar:/Users/oscar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.17.1/jackson-annotations-2.17.1.jar:/Users/oscar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.17.1/jackson-core-2.17.1.jar:/Users/oscar/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire/surefirebooter-20260425041552753_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/target/surefire/surefirebooter-20260818162259710_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="21.0.8+12-LTS-250"/>

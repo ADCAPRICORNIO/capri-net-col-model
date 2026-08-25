@@ -3,6 +3,10 @@ package com.adcapricornio.col_model.constants;
 public final class ColModelIcons {
 
     public static final String BX_SHOW = "bx bx-show";
+    public static final String BX_CANCEL_CIRCLE = "bx bx-x-circle";
+    public static final String BX_TIME = "bx bx-time";
+    public static final String BX_CHECK = "bx bx-check-circle";
+    public static final String BX_WARNING = "bx bx-error";
     public static final String BX_TRASH = "bx bx-trash";
     public static final String BX_EDIT = "bx bx-edit";
     public static final String BX_UPLOAD = "bx bx-upload";

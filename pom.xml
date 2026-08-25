@@ -5,7 +5,7 @@
     <groupId>com.adcapricornio</groupId>
     <artifactId>capri-net-col-model</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.2</version>
+    <version>1.0.4</version>
     <url>http://maven.apache.org</url>
     <name>capri-net-col-model</name>
 

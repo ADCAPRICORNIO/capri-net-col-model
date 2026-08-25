@@ -4,12 +4,10 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;
 import lombok.Getter;
 
-import java.util.List;
-
 @Getter
 @Builder
 @JsonInclude(JsonInclude.Include.NON_NULL)
-public class Header {
+public class HeaderChild {
 
     private String key;
     private String label;
@@ -25,7 +23,5 @@ public class Header {
     private Integer isHidden;
     private Integer isHtml;
     private Integer isSticky;
-
-    private List<HeaderChild> children;
 
 }

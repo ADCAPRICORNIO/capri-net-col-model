@@ -3,6 +3,7 @@
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/constants/ColModelTextAligns.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/Filter.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/helpers/StringHelper.java
+/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/BodyItemFieldChild.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/enums/ColModelTextColors.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/ColModel.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/enums/DataTypes.java
@@ -10,6 +11,7 @@
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/DataRow.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/BodyItem.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/constants/ColModelTextColors.java
+/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/HeaderChild.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/ColModelExcel.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/enums/ColModelIcons.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/DataRowItem.java

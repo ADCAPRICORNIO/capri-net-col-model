@@ -4,17 +4,9 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;
 import lombok.Getter;
 
-import java.util.List;
-
 @Getter
 @Builder
-public class BodyItemField {
-
-    private String key;
-
-    private Object content;
-
-    private List<BodyItemFieldChild> children;
+public class BodyItemFieldChild {
 
     @JsonInclude(JsonInclude.Include.NON_NULL)
     private String buttonTheme;
@@ -66,5 +58,4 @@ public class BodyItemField {
 
     @JsonInclude(JsonInclude.Include.NON_NULL)
     private String badgeTextColor;
-
 }

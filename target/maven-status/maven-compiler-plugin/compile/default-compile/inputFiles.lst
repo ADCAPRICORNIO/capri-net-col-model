@@ -1,3 +1,4 @@
+/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/Footer.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/Data.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/DataRowMetadata.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/constants/ColModelTextAligns.java
@@ -18,6 +19,7 @@
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/BodyItemField.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/excel/Header.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/BodyItemAction.java
+/Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/constants/ColModelBadgeThemes.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/models/Header.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/constants/ColModelIcons.java
 /Users/oscar/Documents/Companies/AdCapricornio/microservices/libraries/capri-net-col-model/src/main/java/com/adcapricornio/col_model/App.java

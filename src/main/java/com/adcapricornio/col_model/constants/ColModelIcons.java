@@ -20,5 +20,7 @@ public final class ColModelIcons {
     public static final String BX_FILE = "bx bx-file-blank";
     public static final String BX_MAP_POINT = "bx bx-map";
     public static final String BXS_TRUCK = "bx bxs-truck";
+    public static final String BX_ARCHIVE = "bx bx-archive";
+
 
 }
